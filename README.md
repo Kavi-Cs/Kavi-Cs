@@ -20,9 +20,10 @@ I'm a multidisciplinary developer and tech enthusiast with a strong foundation i
 
 ### 🚀 What I'm Currently Focusing On
 * 🧠 Engineering intelligent embedded systems by combining **Deep Learning** with **IoT**.
-* 🔌 Designing custom **PCBs** and writing highly optimized firmware for AVR microcontrollers.
+* 🔌 Designing custom **PCBs** and writing highly optimized firmware for complex embedded systems and industrial automation.
 * 📡 Analyzing complex data streams and sensor data using advanced **Signal Processing (FFT)** techniques.
 * 📱 Architecting robust **Full-Stack web platforms** and interactive **Android apps** for seamless user experiences.
+* 🛒 Developing robust **Full-Stack e-commerce platforms** with secure, multi-channel payment integrations.
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [Kaveesha Induwara](http://linkedin.com/in/kaveesha-induwara-55974a359)
