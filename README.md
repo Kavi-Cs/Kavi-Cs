@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kaveesha Induwara 👋</h1>
 <h3 align="center">Bridging the Gap Between Hardware, Software, and Artificial Intelligence</h3>
 
-I'm a multidisciplinary developer and tech enthusiast with a strong foundation in both software engineering and electronic hardware. I specialize in building end-to-end systems—from designing the physical PCB and writing bare-metal firmware, to developing the AI models and mobile/web apps that interact with them. 🚀
+I'm a multidisciplinary developer and tech enthusiast with a strong foundation in both software engineering and electronic hardware. I specialize in building end-to-end systems from designing the physical PCB and writing bare-metal firmware, to developing the AI models and mobile/web apps that interact with them. 🚀
 
 ### 🛠️ Core Competencies & Tech Stack
 
