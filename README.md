@@ -27,7 +27,7 @@ I'm a multidisciplinary developer and tech enthusiast with a strong foundation i
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [Kaveesha Induwara](http://linkedin.com/in/kaveesha-induwara-55974a359)
-* **Email:** [nduwarabarca1899@gmail.com](mailto:nduwarabarca1899@gmail.com)
+* **Email:** [nduwarabarca1899@gmail.com](mailto:induwarabarca1899@gmail.com)
 
 ---
 <p align="center">
