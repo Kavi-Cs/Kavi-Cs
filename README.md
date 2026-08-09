@@ -55,6 +55,5 @@ I'm a multidisciplinary developer and tech enthusiast with a strong foundation i
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavi-Cs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi-Cs&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak"/>
 </div>
