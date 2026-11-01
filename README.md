@@ -115,11 +115,9 @@ engineer:
 > Replace these with your real repos — pin them on your profile for best effect.
 
 <p align="center">
-  <a href="https://github.com/yourusername/project-one">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=default&hide_border=true"/>
+  <a href="[https://github.com/yourusername/project-one](https://github.com/Kavi-Cs/IoT-Water-Level-Monitor-AVR)">
   </a>
-  <a href="https://github.com/yourusername/project-two">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=default&hide_border=true"/>
+  <a [href="https://github.com/yourusername/project-two](https://github.com/Kavi-Cs/Smart-Vehicle-Access-and-Parking-Management-System)">
   </a>
 </p>
 
