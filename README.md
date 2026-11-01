@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaveesha Induwara </h1>
+<h1 align="center">Hi 👋, I'm Kaveesha Induwara</h1>
 <h3 align="center">Electronics & Information Technology Undergraduate | Embedded Systems • DSP • Edge AI • IoT</h3>
 
 <p align="center">
@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kaveesha-induwara-55974a359"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:induwarabarca1899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Kavi-Cs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=2EA3F7" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=2EA3F7&label=Followers" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Kavi-Cs&style=for-the-badge&color=2EA3F7" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Kavi-Cs?style=for-the-badge&color=2EA3F7&label=Followers" alt="followers"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ I'm an **Electronics and Information Technology** undergraduate with a strong in
 ```yaml
 engineer:
   name: "Kaveesha Induwara"
-  role: "Electronics & IT Undergraduate at University of Colombo, Department of Physics"
+  role: "Electronics & IT Undergraduate"
   focus: ["Embedded Systems", "DSP", "Edge AI / TinyML", "IoT", "Computer Vision"]
   currently_building: "Intelligent, resource-aware edge systems"
   fun_fact: "I debug hardware by talking to it (it rarely talks back)"
@@ -112,12 +112,12 @@ engineer:
 
 ### 📌 Featured Projects
 
-> Replace these with your real repos — pin them on your profile for best effect.
-
 <p align="center">
-  <a href="[https://github.com/yourusername/project-one](https://github.com/Kavi-Cs/IoT-Water-Level-Monitor-AVR)">
+  <a href="https://github.com/Kavi-Cs/IoT-Water-Level-Monitor-AVR">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-Cs&repo=IoT-Water-Level-Monitor-AVR&theme=default&hide_border=true"/>
   </a>
-  <a [href="https://github.com/yourusername/project-two](https://github.com/Kavi-Cs/Smart-Vehicle-Access-and-Parking-Management-System)">
+  <a href="https://github.com/Kavi-Cs/Smart-Vehicle-Access-and-Parking-Management-System">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kavi-Cs&repo=Smart-Vehicle-Access-and-Parking-Management-System&theme=default&hide_border=true"/>
   </a>
 </p>
 
@@ -126,16 +126,16 @@ engineer:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kavi-Cs&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi-Cs&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi-Cs&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavi-Cs&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
