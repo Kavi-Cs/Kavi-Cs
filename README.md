@@ -20,9 +20,9 @@
 
 ### 🧠 About Me
 
-I'm an **Electronics and Information Technology** undergraduate with a strong interest in **embedded systems, electronic system design, digital signal processing, machine learning, and Edge AI**. I enjoy exploring the intersection of hardware and intelligent software — building practical solutions through microcontrollers, sensor interfacing, signal processing, and machine learning.
+I'm an **Electronics and Information Technology** undergraduate with a strong interest in **embedded systems, electronic system design, digital signal processing, machine learning, and Edge AI**. I enjoy exploring the intersection of hardware and intelligent software building practical solutions through microcontrollers, sensor interfacing, signal processing, and machine learning.
 
-> 🎯 **Goal:** Become an engineer capable of bridging electronics, embedded systems, and artificial intelligence — designing efficient, reliable, and intelligent solutions for real-world engineering problems.
+> 🎯 **Goal:** Become an engineer capable of bridging electronics, embedded systems, and artificial intelligence designing efficient, reliable, and intelligent solutions for real-world engineering problems.
 
 ```yaml
 engineer:
