@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Kaveesha Induwara </h1>
 <h3 align="center">Electronics & Information Technology Undergraduate | Embedded Systems • DSP • Edge AI • IoT</h3>
 
 <p align="center">
@@ -26,8 +26,8 @@ I'm an **Electronics and Information Technology** undergraduate with a strong in
 
 ```yaml
 engineer:
-  name: "Your Name"
-  role: "Electronics & IT Undergraduate"
+  name: "Kaveesha Induwara"
+  role: "Electronics & IT Undergraduate at University of Colombo, Department of Physics"
   focus: ["Embedded Systems", "DSP", "Edge AI / TinyML", "IoT", "Computer Vision"]
   currently_building: "Intelligent, resource-aware edge systems"
   fun_fact: "I debug hardware by talking to it (it rarely talks back)"
